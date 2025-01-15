@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Poetry Sharing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Poetry Sharing</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="poems.html">View Poems</a>
+            <a href="submit.html">Submit a Poem</a>
+        </nav>
+    </header>
+    <main>
+        <p>Welcome to our poetry platform! Share your creativity and read amazing poems from others!</p>
+    </main>
+</body>
+</html>
